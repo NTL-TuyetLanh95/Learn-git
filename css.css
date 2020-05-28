@@ -1,0 +1,31 @@
+
+*{
+	background-color: #E7E7E7;
+}
+.main-container{
+	width: 400px;
+	height: 200px;
+	padding: 10px;
+}
+.main-title{
+	font-family: 'Roboto';
+	background-color: white;
+	
+	border-bottom: 3px solid black;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+}
+.main-title h3{
+	background-color: black;
+	display: inline;
+	color: yellow;
+	padding: 10px 5px 10px 5px;
+}
+.main-images{
+	background-color: white;
+}
+.icon{
+	width: 120px;
+	height: 100px;
+}
